@@ -1,1 +1,1 @@
-# Meteor-Detector
+# Miteor-Ditector
